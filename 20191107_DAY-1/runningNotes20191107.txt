@@ -1,0 +1,8 @@
+Agenda :
+
+1. Introduction
+2. Course Introduction
+3. AWS Training & Certifications Roadmap 
+4. Sharing the Class Notes, & Videos 
+5. Launch a Linux Server on AWS Cloud 
+6. Connecting Linux Server using various tools from our Laptop/desktop 
