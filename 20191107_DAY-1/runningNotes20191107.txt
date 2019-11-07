@@ -6,3 +6,27 @@ Agenda :
 4. Sharing the Class Notes, & Videos 
 5. Launch a Linux Server on AWS Cloud 
 6. Connecting Linux Server using various tools from our Laptop/desktop 
+
+
+i Shaped : Developer, QA, Ops etc...
+
+T Shaped : Develop & QA 
+
+Pi Shaped :
+
+Comb-Shaped : Full Stack Engineer 
+    - Develop
+    - QA 
+    - Ops 
+    - Business 
+
+
+Monday - Fri : 5  Days a Week 
+
+Duration : 36 Hrs 
+
+Fee : 18K 
+
+Quiz 
+
+500+ Mock Exam Questions : 
