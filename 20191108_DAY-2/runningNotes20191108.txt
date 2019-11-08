@@ -1,0 +1,17 @@
+Agenda :
+
+1. AWS Global Infrastructure
+2. AWS Global Services/Resources        : IAM (User, Group, Policy, Roles, etc..)
+3. AWS Region Based Services/Resources  : EC2 (Compute, Windows, Linux, etc..)
+4. AWS Compute
+5. AWS EC2 
+    5.1 Windows
+    5.2 Linux 
+    5.3 Connect Windows from Our Local Machine
+    5.4 Connect Linux from Our Local Machine
+6. Summary
+7. Q&A
+
+Intro To My Workstation:
+    1. PC/Laptop : MacOS 
+    2. 
