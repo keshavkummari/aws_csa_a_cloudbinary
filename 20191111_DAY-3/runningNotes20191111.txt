@@ -1,0 +1,51 @@
+Agenda :
+
+1. Creating AWS Account 
+2. Download, Install & Configure required tools
+3. AWS Global Infrastructure 
+4. Creating IAM User 
+
+Company Name : Cloud Binary 
+
+CSA : Created a AWS Account 
+
+Root User :
+https://aws.amazon.com/
+
+UserName : contact.cloudbinary@gmail.com 
+password : ***********
+
+STEP-1 :
+
+IAM users sign-in link:
+https://cloudbinary1.signin.aws.amazon.com/console 
+
+UserName : joel 
+password : ********
+
+CLI : 
+
+Access Key :
+Secreat Access Key : 
+
+
+STEP-2 : 
+
+https://git-scm.com/
+
+
+Group :
+
+Attach Policies to Group i.e. 
+
+STEP-3 :
+
+User :
+
+Attach or Add user to a Group 
+
+
+
+
+
+
