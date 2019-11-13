@@ -1,0 +1,13 @@
+
+Agenda:
+
+1. Download, Install & Configure required tools
+    1. VCS / SCM : Gitbash 
+    2. SSH 3rd Party Tool : Cmder 
+    3. IDE : Visual Studio Code 
+    4. Cloud Account : AWS 
+    5. VCS / SCM Vendors : GitHub, GitLab, BitBucket etc... 
+
+2. AWS Global Infrastructure 
+
+
